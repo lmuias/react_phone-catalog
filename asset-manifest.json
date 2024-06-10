@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "./static/css/main.0f676631.css",
+    "main.js": "./static/js/main.6a8603c9.js",
+    "static/media/Tablets.svg": "./static/media/Tablets.f9fbb5faf43549abf368bd4661171074.svg",
+    "static/media/firstSLide.svg": "./static/media/firstSLide.e835e9f58fe789883a4b.svg",
+    "static/media/thirdSlide.png": "./static/media/thirdSlide.3ab0c9b71cae9e04b094.png",
+    "static/media/Accessories.svg": "./static/media/Accessories.dae8a1fe01572603626b5e1841ff1509.svg",
+    "static/media/secondSlide.png": "./static/media/secondSlide.e47d6d6df68a6548e82b.png",
+    "static/media/Phones.svg": "./static/media/Phones.219060cd17f5c1e992fd73caaef0b6fc.svg",
+    "static/media/firstSlide.png": "./static/media/firstSlide.b637b5e421a45267eba2.png",
+    "static/media/fourthSlide.webp": "./static/media/fourthSlide.bcfeec05ec76fb687f51.webp",
+    "static/media/favorite.svg": "./static/media/favorite.3ae8024a17bf1be612c8.svg",
+    "static/media/IconNext.svg": "./static/media/IconNext.51763f6a692d5ce40103.svg",
+    "static/media/IconPrev.svg": "./static/media/IconPrev.8930c33e713a40fa15d1.svg",
+    "static/media/arrow.svg": "./static/media/arrow.ecb90764164cd4ce0c21.svg",
+    "index.html": "./index.html",
+    "main.0f676631.css.map": "./static/css/main.0f676631.css.map",
+    "main.6a8603c9.js.map": "./static/js/main.6a8603c9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0f676631.css",
+    "static/js/main.6a8603c9.js"
+  ]
+}
